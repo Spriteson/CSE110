@@ -15,11 +15,17 @@ I can use `#` or `##` or `###` for heading
 
 ## Styling
 **Bold** `** **` or `__ __`
+
 *Italic*  `* *` or `_ _`
+
 ~~Strikethrough~~ `~~ ~~`
+
 **Bold and nested _italic_** use `** **` and `_ _`
+
 ***All bold and italic*** use `*** ***`
+
 <sub>This is a subscript text</sub>  use`<sub>` and `</sub>`
+
 <sup>This is a superscript text</sup> sup and /sup on <>
 
 ## Quoting text
