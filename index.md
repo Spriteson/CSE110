@@ -51,8 +51,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ## Section links
 I can link directly to a section in a rendered file by hovering over the section heading to expos.
 Use [] and (#)
-`[Styling](#Styling)`
-[Styling](#Styling) 
+`[Styling](#styling)`
+[Styling](#styling) 
 
 ## Relative links
 I can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
