@@ -34,8 +34,10 @@ I can quote text with a `>`.
 > Text that is a quote
 
 ## Quoting code
-I can use ``` on the top and the end to quote a code. 
-or ```Command```+```E```
+I can use three ` on the top and the end to quote a code. 
+
+or `Command`+`E`
+
 or ` between text
 
 ## External Links
@@ -49,8 +51,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ## Section links
 I can link directly to a section in a rendered file by hovering over the section heading to expos.
 Use [] and (#)
-`[Styling](#Styling)`
-[Styling](#Styling) 
+`[Styling](##Styling)`
+[Styling](##Styling) 
 
 ## Relative links
 I can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
@@ -65,7 +67,9 @@ I can display an image by adding `!` and wrapping the alt text in `[ ]`. Alt tex
 
 ## Ordered and Unordered Lists
 I can make an unordered list by preceding one or more lines of text with `-`, `*`, or `+`.
+
 I can also use `1.`, `2.`, and `3.`
+
 I can also use nested list and use indent `Tab`
 ```
 1. First list item
